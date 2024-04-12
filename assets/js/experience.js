@@ -6,7 +6,7 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Project Intern",
-    cardImage: "assets/images/experience-page/antodrone.jpg",
+    cardImage: "assets/images/experience-page/antridrone.jpg",
     place: "Paras AntiDrone",
     time: "(January, 2024 - present)",
     desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
