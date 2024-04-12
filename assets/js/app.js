@@ -154,6 +154,11 @@ let footer = $(`
         </div>
     </div>
 
+
+    
+
+    <div class="rounded-social-buttons tag">
+
     <a class="social-button linkedin" href="" target="_blank" >
     <!-- svg code for linkedin icon -->
       <svg class="linkedin-icon-footer" xmlns="http://www.w3.org/2000/svg" width="35" viewBox="0 0 24 24" fill="#0e76a8"
