@@ -9,14 +9,14 @@ const exp = [
     cardImage: "assets/images/experience-page/antridrone.jpg",
     place: "Paras AntiDrone",
     time: "(January, 2024 - present)",
-    desp: "<li>Involved in Hardware design of a SDR(Software Defined Radio).</li> <li>.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    desp: "<li>Involved in Hardware design of a SDR(Software Defined Radio).</li> <li>Designed and implemented a robust server cluster infrastructure to meet the demands of high-volume operations.</li> <li>Contributed to a successful bid acquisition from DEAL (Dehradun), securing a contract for the development and provision of handheld radios.</li>",
   },
   {
     title: "Team Manager",
     cardImage: "assets/images/experience-page/rugved.jpeg",
     place: "RUGVED Systems",
     time: "(November, 2020 - October, 2023)",
-    desp: "<li>● Assisted the conceptual team in bringing concepts to fruition by introducing various realist ideas and directing an action plan.</li> <li>● Responsible for the team's finances by performing balance allocation, financial modelling and reporting.</li> <li>Constructed an Auto-fire Airsoft to shoot in the presence of a human using YOLO v5 and TCP/IP.</li>  <li>Technology: Altium Designer, GCC & CMAKE, C/C++, Micro Python, STM MCU, Raspberry Pi, Linux, Shell scripting.</li>",
+    desp: "<li>Assisted the conceptual team in bringing concepts to fruition by introducing various realist ideas and directing an action plan.</li> <li>Responsible for the team's finances by performing balance allocation, financial modelling and reporting.</li> <li>Constructed an Auto-fire Airsoft to shoot in the presence of a human using YOLO v5 and TCP/IP.</li>  <li>Technology: Altium Designer, GCC & CMAKE, C/C++, Micro Python, STM MCU, Raspberry Pi, Linux, Shell scripting.</li>",
   },
 ];
 
@@ -55,10 +55,9 @@ document.addEventListener("DOMContentLoaded", showCards2);
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
-    title: "Techtatva 2022",
-    cardImage: "assets/images/experience-page/techtatva.jpeg",
-    description:
-      "Responsible for handling the projects GirlScript App and GirlScript Website Boilerplate.",
+    title: "",
+    cardImage: "",
+    description: "",
   },
 ];
 
@@ -85,6 +84,13 @@ document.addEventListener("DOMContentLoaded", showCards);
 
 const hackathonsection = document.querySelector(".hackathon-section");
 const mentor = [
+  {
+    title: "Techtatva 2022",
+    Image: "assets/images/experience-page/techtatva.jpeg",
+    subtitle: "Core Organizer",
+    desp: "Responsible for handling the projects GirlScript App and GirlScript Website Boilerplate.",
+    href: ""
+  },
 ];
 
 const showCards3 = () => {
