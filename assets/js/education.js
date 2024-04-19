@@ -104,7 +104,7 @@ document.addEventListener("DOMContentLoaded", showCards);
 
 /* Badges*/
 
-const bagdes = document.querySelector(".badges");
+const badges = document.querySelector(".badges");
 const badgesection = [
   {
     title: "Google Developer Essentials",
