@@ -134,7 +134,7 @@ const showCards1 = () => {
           <div class="text-center text-muted font-weight-bolder p-2">${description}</div>
       </div>`)
   );
-  bagdes.innerHTML = output;
+  badges.innerHTML = output;
 };
 document.addEventListener("DOMContentLoaded", showCards1);
 
