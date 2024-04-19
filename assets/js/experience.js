@@ -13,7 +13,7 @@ const exp = [
   },
   {
     title: "Team Manager",
-    cardImage: "assets/images/experience-page/rugved.jpeg",
+    cardImage: "assets/images/experience-page/Logo-RUGVED.png",
     place: "RUGVED Systems",
     time: "(November, 2020 - October, 2023)",
     desp: "<li>Assisted the conceptual team in bringing concepts to fruition by introducing various realist ideas and directing an action plan.</li> <li>Responsible for the team's finances by performing balance allocation, financial modelling and reporting.</li> <li>Constructed an Auto-fire Airsoft to shoot in the presence of a human using YOLO v5 and TCP/IP.</li>  <li>Technology: Altium Designer, GCC & CMAKE, C/C++, Micro Python, STM MCU, Raspberry Pi, Linux, Shell scripting.</li>",
@@ -88,7 +88,7 @@ const mentor = [
     title: "Techtatva 2022",
     image: "assets/images/experience-page/techtatva.jpeg",
     subtitle: "Core Organizer",
-    desp: "Responsible for organizing a coding competition for participants to develop computer vision code. Implemented custom-rigged airsoft gun for autonomous shooting.Had over 150+ in registration.",
+    desp: "Responsible for organizing a coding competition for participants to develop computer vision code. Implemented custom-rigged airsoft gun for autonomous shooting. Had over 150+ in registration.",
     href: ""
   },
 ];
