@@ -86,9 +86,9 @@ const hackathonsection = document.querySelector(".hackathon-section");
 const mentor = [
   {
     title: "Techtatva 2022",
-    Image: "assets/images/experience-page/techtatva.jpeg",
+    image: "assets/images/experience-page/techtatva.jpeg",
     subtitle: "Core Organizer",
-    desp: "Responsible for handling the projects GirlScript App and GirlScript Website Boilerplate.",
+    desp: "Responsible for organizing a coding competition for participants to develop computer vision code. Implemented custom-rigged airsoft gun for autonomous shooting.Had over 150+ in registration.",
     href: ""
   },
 ];
